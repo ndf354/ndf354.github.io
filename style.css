@@ -1,0 +1,76 @@
+.nav-link {
+    display: flex;
+    padding: 0.5rem 1rem;
+    color: darkgreen;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    justify-content: flex-start;
+}
+.main {
+    background-color: darkgreen;
+    color: #fff;
+    padding: 2rem 1rem;
+    text-align: right;
+    width: inherit;
+}
+
+h1 {
+    display: flex;
+    font-size: xx-large;
+    margin: 0.2em;
+    font-weight: bold;
+    font-family: math;
+    align-content: center;
+    flex-direction: row;
+}
+
+.abby {
+    display: block;
+    max-width: 20%;
+    height: auto;
+    padding: 10px;
+}
+
+.mary {
+    display: block;
+    max-width: 20%;
+    height: auto; 
+    padding: 10px;
+}
+
+.jim {
+    display: block;
+    max-width: 20%;
+    height: auto; 
+    padding: 10px;
+}
+
+.sheila {
+    display: block;
+    max-width: 20%;
+    height: auto;
+    padding: 10px;
+}
+
+.natalie {
+    display: block;
+    max-width: 20%;
+    height: auto; 
+    padding: 10px;
+}
+
+.col {
+    position: relative;
+    width: 100%;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1600px;
+}
+
+.caption {
+    font-weight: bold;
+    font-family: math;
+    background-color: lightgrey;
+}
